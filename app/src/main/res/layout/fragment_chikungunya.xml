@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="400dp"
+    android:background="@drawable/rectangle_frag_bg"
+    tools:context=".Chikungunya">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Chikungunya"
+        android:textSize="30sp"
+        android:textColor="@color/colorPrimaryLight"
+        android:layout_gravity="center"
+        android:textStyle="bold"/>
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Epsom salt soak"
+        android:textStyle="italic"
+        android:textSize="30sp"
+        android:textColor="@color/colorPrimaryLight"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="10dp"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Turmeric"
+        android:textSize="30sp"
+        android:textStyle="italic"
+        android:textColor="@color/colorPrimaryLight"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="10dp"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Ginger"
+        android:textSize="30sp"
+        android:textStyle="italic"
+        android:textColor="@color/colorPrimaryLight"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="10dp"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Coconut water"
+        android:textSize="30sp"
+        android:textColor="@color/colorPrimaryLight"
+        android:layout_marginTop="10dp"
+        android:textStyle="italic"
+        android:layout_marginLeft="10dp"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Tulsi (Basil Leaves)"
+        android:textSize="30sp"
+        android:textStyle="italic"
+        android:textColor="@color/colorPrimaryLight"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="10dp"
+        />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Sunflower seeds and Honey"
+            android:textSize="30sp"
+            android:textStyle="italic"
+            android:textColor="@color/colorPrimaryLight"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="10dp"
+            />
+    </LinearLayout>
+
+</FrameLayout>

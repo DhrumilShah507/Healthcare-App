@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#4153F4</color>
+    <color name="colorPrimaryLight">#F9F9FA</color>
+    <color name="colorPrimaryDark">#422761</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="bg">#EA80FC</color>
+    <color name="High">#FF5252</color>
+    <color name="Medium">#FFFF00</color>
+    <color name="Low">#69F0AE</color>
+    <color name="High_selected">#A61D1D</color>
+    <color name="Medium_selected">#AEAE23</color>
+    <color name="Low_selected">#2AA86B</color>
+
+
+
+</resources>

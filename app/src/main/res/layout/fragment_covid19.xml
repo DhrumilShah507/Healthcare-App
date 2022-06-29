@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="700dp"
+    android:background="@drawable/rectangle_frag_bg"
+    tools:context=".Covid19">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Covid19"
+            android:textSize="30sp"
+            android:textColor="@color/colorPrimaryLight"
+            android:layout_gravity="center"
+            android:textStyle="bold"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Clean your hands often. Use soap and water, or an alcohol-based hand rub."
+            android:textStyle="italic"
+            android:textSize="30sp"
+            android:textColor="@color/colorPrimaryLight"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="10dp"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Maintain a safe distance from anyone who is coughing or sneezing."
+            android:textSize="30sp"
+            android:textStyle="italic"
+            android:textColor="@color/colorPrimaryLight"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="10dp"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Wear a mask when physical distancing is not possible."
+            android:textSize="30sp"
+            android:textStyle="italic"
+            android:textColor="@color/colorPrimaryLight"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="10dp"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Don’t touch your eyes, nose or mouth."
+            android:textSize="30sp"
+            android:textColor="@color/colorPrimaryLight"
+            android:layout_marginTop="10dp"
+            android:textStyle="italic"
+            android:layout_marginLeft="10dp"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Stay home if you feel unwell"
+            android:textSize="30sp"
+            android:textStyle="italic"
+            android:textColor="@color/colorPrimaryLight"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="10dp"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Cover your nose and mouth with your bent elbow or a tissue when you cough or sneeze."
+            android:textSize="30sp"
+            android:textStyle="italic"
+            android:textColor="@color/colorPrimaryLight"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="10dp"
+            />
+    </LinearLayout>
+
+</FrameLayout>

@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">HEALTH CARE +</string>
+    <string name="wel">WELCOME TO HEALTH CARE +</string>
+    <string name="title">HEALTH CARE +</string>
+    <string name="created">DEVELOPED BY</string>
+    <string name="name">ADITYA AND DHRUMIL</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="name_lable">NAME</string>
+    <string name="email_pro">EMAIL</string>
+    <string name="phone_no_pro">PHONE NO</string>
+    <string name="FevQue">Which of the following Cough are you facing?</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">"AIzaSyDY0uFiDPBjDpMysnPdslYveUJqCN9m5Nw"</string>
+</resources>
